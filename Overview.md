@@ -35,7 +35,24 @@ session ratings shall be posted into a CDS entity
 
 ## What do you need to get started? 
 
-## Resources
+To be able to build this app, you will need the following:
+
+* Microsoft Developer Tenant,
+
+* Power Apps License, which can be: 
+
+    * Community Plan (free,
+  
+    * 30 day free trial. 
+
+* Twitter Account
+
+## How do we navigate the different tenants?
+
+As we do the Bootcamp in the Microsoft Community Events tenant and you do the lab in your developer tenant (and you will probably need/want to have your main work tenant open as well) it is a good idea to have different profiles in your browser for the different tenants. 
+
+
+## Additional Resources
 
 [What is Power Apps @ docs.microsoft.com](https://docs.microsoft.com/en-us/powerapps/powerapps-overview)
 
