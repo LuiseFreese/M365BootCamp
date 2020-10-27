@@ -18,3 +18,11 @@ Ok, now that you know what we want to build, let's get your ready
 
 * Accept Terms & Conditions
 * Click `Next`
+
+3. Complete your preferences
+
+![Complete your preferences](https://github.com/LuiseFreese/M365BootCamp/blob/main/images/complete.png "complete")
+
+* tick the boxes that apply to you
+
+* click `Join`
