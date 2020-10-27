@@ -6,7 +6,9 @@ Ok, now that you know what we want to build, let's get your ready
 
 * Click the link above
 
-* Click `Join here` ![Join here](https://github.com/LuiseFreese/M365BootCamp/blob/main/images/join.png "Join here")
+* Click `Join now` 
+
+![Join here](https://github.com/LuiseFreese/M365BootCamp/blob/main/images/join.png "Join here")
 
 2. fill out that form
 
@@ -64,3 +66,16 @@ Ok, now that you know what we want to build, let's get your ready
   * Paste that code 
 
   * click `Set up`
+  
+  optional: You may want to populate your Developer Tenant with some users, mail & events and a SharePoint sample data pack. To do so, 
+  
+  * click `Users` /`Mail & Events`/ `SharePoint`
+  * click `accept` 
+  
+  This way, your tenant won't feel empty and there is already content to play and test around so that we don't need to createa gazillion of documents `test.docx`, `test2.docx`, `test42.docx` and so on 😇
+  
+  ## Power Platform License
+  
+  As we need a Premium Connector (Common Data Services) in our App, we will need a License to cover this scenario. For this please follow the process for [Signing up for Community Plan](https://powerapps.microsoft.com/en-us/communityplan/). Community Plan is a free Power Apps License which is intended for learning but not for production. You can use it in this Bootcamp and for your ongoing learning journey. 
+  
+  
