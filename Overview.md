@@ -51,7 +51,7 @@ To be able to build this app, you will need the following:
 
 As we do the Bootcamp in the Microsoft Community Events tenant and you do the lab in your developer tenant (and you will probably need/want to have your main work tenant open as well) it is a good idea to have different profiles in your browser for the different tenants. 
 
-You can now proceed to the next section: Prepare your Lab
+You can now proceed to the next section: [Prepare your Lab]( https://github.com/LuiseFreese/M365BootCamp/blob/main/Preparations.md)
 
 
 ## Additional Resources
