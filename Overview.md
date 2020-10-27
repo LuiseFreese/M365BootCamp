@@ -41,7 +41,7 @@ To be able to build this app, you will need the following:
 
 * Power Apps License, which can be: 
 
-    * Community Plan (free,
+    * Community Plan (free),
   
     * 30 day free trial. 
 
