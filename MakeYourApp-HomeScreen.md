@@ -1,5 +1,0 @@
-## Theme
-
-## Background
-
-## Icons
