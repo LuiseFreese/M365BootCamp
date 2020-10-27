@@ -51,6 +51,8 @@ Ok, now that you know what we want to build, let's get your ready
 
 * Add your phone number
 
+![Add phone](https://github.com/LuiseFreese/M365BootCamp/blob/main/images/addphone.png "Add yhour phone number")
+
   * select your Country Code
 
   * Enter Phone Number
