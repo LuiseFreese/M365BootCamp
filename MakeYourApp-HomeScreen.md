@@ -23,7 +23,7 @@ Your Windows Explorer/ Finder will open
 
 A textbox appears. This textbox - as everything in our Power App, has properties, which you can find in two areas: 
 
-1. sidebar on the left - watch out, it has two tabs- `Properties` and `Advanced` and can sometimes be a bit confusing
+1. Sidebar on the left - watch out, it has two tabs- `Properties` and `Advanced` and can sometimes be a bit confusing
 2. Dropdown menu at the top - I prefer to set properties right here.
 
 Write a text in your Textbox like "Welcome to the conference"
@@ -39,16 +39,19 @@ Write a text in your Textbox like "Welcome to the conference"
   
   💡 Width will automatically adjust
   
-* Change the x position of the icons to 17, 193, 371, 555
-* Change the y positions of all icons to 1022
-* Create 4 new Labels 
-  * Click `Insert`
-  * Click `Label`
-* write `home`, `sessions`, `rating` and `twitter` in them. 
-* Change the x position of the lebels to 22, 179, 371, 555
-* Change the y positions of all labels to 1066
-* Select all icons and labels
-* rightclick, group
+* align your icons
+  * Change the x position of the icons to 17, 193, 371, 555
+  * Change the y positions of all icons to 1022
+  * Create 4 new Labels 
+    * Click `Insert`
+    * Click `Label`
+* label your icons
+  * write `home`, `sessions`, `rating` and `twitter` in them. 
+* align your labels
+  * Change the x position of the lebels to 22, 179, 371, 555
+  * Change the y positions of all labels to 1066
+  * Select all icons and labels
+  * rightclick, group
 
 
 
