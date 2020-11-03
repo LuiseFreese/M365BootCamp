@@ -57,7 +57,7 @@ Write a text in your Textbox like "Welcome to the conference"
   * set the .Displaymode property to `disabled`
  This way, its greyed out, which makes sense, as we allready are on the home screen.
  
- 🚀 You can now proceed with te next step 
+ 🚀 You can now proceed with the next step 
  
  
 
