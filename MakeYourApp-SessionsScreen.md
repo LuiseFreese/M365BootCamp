@@ -38,6 +38,16 @@ This means, that we want to use the Office365Outlook Connector and Get Calendar 
 * Position:x = 0, y = 141
 * Size: 640  803
 
+In the right sidebar, 
+
+* Layout: select `Title, subtitle, and body`
+* click Fields: `Edit`
+* select what you want to display- 
+
+Some suggestions: Subject (its the title of a session), Bodypreview (its the Description of a session), StartTime. 
+
+You may want tow work on Font color, Font weight etc. - feel free to do that!
+
 ## make your dropdown menu invisible
 
 As our users do not need to do anything with the dropdown menu, we can't delete it (because it still contains the name of the calendar we want to use) but we can set its .visible property to `false`.
@@ -45,6 +55,35 @@ As our users do not need to do anything with the dropdown menu, we can't delete 
 * Select dropdown menu
 * Select visible
 * write `false`
+
+## Navigation
+
+We will now copy and paste the navigation from our homescreen
+
+* Click `homescreen`
+* Select all navigation icons and labels
+* copy
+* click `sessions` screen
+* paste
+* Choose same positions as in home screen 
+* enable `home` icon 
+  * click `home` icon
+  * set display mode to `edit`
+* disable `sessions` icon
+   * click `sessions` icon
+   * set display mode to `edit`
+   
+Now we want to enable navigation between our two screens. 
+
+* Click Home Screen
+* Select `sessions` icon
+* select .onSelect property
+* write `navigate(Sessions)`
+
+You will seem that IntelliSense works quite nice, automatically suggesting you, what you can put into your functions. 
+ 
+
+
 
 
 
