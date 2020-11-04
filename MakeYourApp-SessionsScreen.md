@@ -11,7 +11,7 @@ Connect with Office365Outlook Connector
 * set its .text property to "my sessions"
 * Position: x=0, Y=55
 * Size: 640 x 108
-* if youn like to: change color, font, fontweight
+* if you like to: change color, font, fontweight
 
 ## Dropdown to chose the right calendar
 
