@@ -81,6 +81,10 @@ Now we want to enable navigation between our two screens.
 * write `navigate(Sessions)`
 
 You will seem that IntelliSense works quite nice, automatically suggesting you, what you can put into your functions. 
+
+Now do the same in your sessions screen to navigate to your home screen  with Navigate(Home) in the .onSelect property of your home icon. 
+
+You can now proceed to the next step. 
  
 
 
