@@ -79,8 +79,8 @@ Ok, now that you know what we want to build, let's get your ready
   As we need a Premium Connector (Common Data Services) in our App, we will need a License to cover this scenario. For this please follow the process for [Signing up for Community Plan](https://powerapps.microsoft.com/en-us/communityplan/). Community Plan is a free Power Apps License which is intended for learning but not for production. You can use it in this Bootcamp and for your ongoing learning journey. 
   
   
-##
+## twitter
 
-We neeeddd a twitter account as well. As we don't post data to twitter in your name but only read data via the twitter connector in Power Apps, you can use your personal twitter account. If you like to, you can also setup a new account for this purpose, but it is surely nor required to do that. 
+We neeed a twitter account as well. As we don't post data to twitter in your name but only read data via the twitter connector in Power Apps, you can use your personal twitter account. If you like to, you can also setup a new account for this purpose, but it is surely nor required to do that. 
 
 Once you completed these steps, you may proceed to [Make your App: Home Screen](https://github.com/LuiseFreese/M365BootCamp/blob/main/MakeYourApp-HomeScreen.md)
