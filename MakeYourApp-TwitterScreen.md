@@ -22,4 +22,4 @@ What we do right here is launching the specific tweet. On mobile, it will open t
 * set the .onSelect property of sessions icon to `Navigate(sessions)`
 * set the .onSelect property of twitter icon on home screen and sessions screen to `Navigate(twitter)`
 
-You can now proceed to the next step
+You can now proceed to the next step: [CDS entity](https://github.com/LuiseFreese/M365BootCamp/blob/main/MakeYourApp-CDSEntity.md)
