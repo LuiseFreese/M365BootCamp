@@ -46,6 +46,7 @@ To be able to build this app, you will need the following:
     * 30 day free trial. 
 
 * Twitter Account
+* an Outlook calendar with 3 events in the (near future) containing a title and a (short description) to diplay in our app. I chose events from MSBuild conference, but you can do something else as well.
 
 ## How do we navigate the different tenants?
 
