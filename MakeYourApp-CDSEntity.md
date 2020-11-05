@@ -17,5 +17,5 @@
   * "Rating Audience Interaction"
 * click `Save Entity`
 
-You can now proceed to the next step: [sessions rating screen](https://github.com/LuiseFreese/M365BootCamp/blob/main/MakeYourApp-SessionsRating)
+You can now proceed to the next step: [sessions rating screen](https://github.com/LuiseFreese/M365BootCamp/blob/main/MakeYourApp-SessionsRating.md)
   
