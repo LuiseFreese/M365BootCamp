@@ -84,7 +84,7 @@ You will seem that IntelliSense works quite nice, automatically suggesting you, 
 
 Now do the same in your sessions screen to navigate to your home screen  with Navigate(Home) in the .onSelect property of your home icon. 
 
-You can now proceed to the next step. 
+You can now proceed to the next step: [twitter screen](https://github.com/LuiseFreese/M365BootCamp/blob/main/MakeYourApp-TwitterScreen.md)
  
 
 
