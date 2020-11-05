@@ -7,4 +7,4 @@
 * set the .onselect property of all icons to navigate({ScreenName})
 * if you like to, change the .text property of the label
 
-You can now proceed to the next step
+You can now proceed to the next step [Session Ratings Submit](https://github.com/LuiseFreese/M365BootCamp/blob/main/MakeYourApp-SessionsRatingSUBMIT.md)
