@@ -29,4 +29,4 @@ Click `Save as`,
 
 click that arrow.
 
-You may now want to proceed to the next step. 
+You may now want to proceed to the [next step](https://github.com/LuiseFreese/M365BootCamp/blob/main/MakeYourApp-HomeScreen.md)
