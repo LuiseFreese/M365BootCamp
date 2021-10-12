@@ -18,7 +18,7 @@ Connect with Office365Outlook Connector
 Now its getting a little bit tricky. Outlook can contain several calendars, and they will all show up in our app if we don't define, which tabke we want to display. 
 
 * Create a Dropdown Field
-* set its .Items property to `(Office365Outlook.CalendarGetTables().value`
+* set its .Items property to `Office365Outlook.CalendarGetTables().value`
 
 Yo can now see all your calendars in this dropdown. As we only want to show ONE specific calendar (mine is called `Events`), we will filter: 
 
