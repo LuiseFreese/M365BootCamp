@@ -6,7 +6,7 @@
 
 Your Windows Explorer/ Finder will open
 
-* Select `bg_dark` which you downloaded befor from this repo. 
+* Select `bg_dark` which you downloaded before from this repo. 
 * Choose `image position` as `Fill`
 
 ## Theme
