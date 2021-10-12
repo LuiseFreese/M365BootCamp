@@ -16,7 +16,7 @@
 
 💡 You made an app (Congrats 🎉) but we have two issues with that: 
 
-* it doesn't do anything (we wioll solve this later on
+* it doesn't do anything (we will solve this later on
 * we didn't save it yet. 
 
 Unlikely as Office Apps, autosave will only work in Power Apps after we initially saved our app. 
